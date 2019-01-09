@@ -15,15 +15,15 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 #
 #   1. Write a line of code that would input an INTEGER from the
 #      console, storing the integer in a variable called 'x'.
-#      Write your line here:
+#      Write your line here:  x = int(input('Enter and Integer'))
 #
 #   2. Write a line of code that would input an FLOAT from the console,
 #      storing the float in a variable called 'x'.
-#      Write your line here:
+#      Write your line here: x = float(input('Give me a floating point: ')
 #
 #   3. Write a line of code that would input an STRING from the console,
 #      storing the string in a variable called 'x'.
-#      Write your line here:
+#      Write your line here: x = input('Enter a String')
 #
 #   4. What happens if you (the user) enter something OTHER than a
 #      single integer (e.g., you enter
